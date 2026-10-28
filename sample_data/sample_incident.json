@@ -1,0 +1,7 @@
+{
+  "title": "VPN connection unavailable",
+  "description": "User cannot connect to corporate VPN",
+  "severity": "high",
+  "status": "open",
+  "reported_by": "demo-user"
+}
